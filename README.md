@@ -1,5 +1,5 @@
 # LEER POR FAVOR.
-No se que le paso a este repo, pero me copio todo el computador
+No se que le paso a este repo, pero me hizo push con todo el Onedrive
 
-Este es el acceso directo, para ejecutar el programa debes instalar DataStructures, y dirigirte a los paquetes.
-https://github.com/Sebastian-411/Ced2323/tree/master/DataStructures/src/model/bst/treeAVL
+Este es el acceso directo, para el nuevo repositorio!
+https://github.com/Sebastian-411/TreeAVL
